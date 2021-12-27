@@ -1,5 +1,8 @@
 # PatchMatchStereoPython
 PatchMatchStereo in Python  
+PatchMatch、従来の傾斜ウィンドウ、優れた効果、OpenMVS＆Colmap高密度マッチングアルゴリズム。 完全な実装、コード仕様、明確なコメント、ブログ教育、ウェルカムスター！  
+
+![](https://github.com/Magicboomliu/PatchMatchStereoPython/blob/main/results/results.png)  
 
 # patchmatchStereo 
 ## Using Slant window for better Stereo Matching 
