@@ -20,8 +20,11 @@ python main.py
 ```
 ## Outcome  
 
+![](https://github.com/Magicboomliu/PatchMatchStereoPython/blob/main/results/LR.png)  
+### Propagation Once  
+![](https://github.com/Magicboomliu/PatchMatchStereoPython/blob/main/results/propagte_once.png)
+### Propagation Twice  
+![](https://github.com/Magicboomliu/PatchMatchStereoPython/blob/main/results/propagte_twice.png)
+### Propagation Third  
+![](https://github.com/Magicboomliu/PatchMatchStereoPython/blob/main/results/propagate_third.png)
 
-
-<p float="left">
-    <img src="./images/pms_0_left.png" width="200" height="200"/><img src="./images/pms_0_right.png" width="200" height="200"/><img src="./images/pms_0_disparity.png" width="200" height="200"/>
-</p>
